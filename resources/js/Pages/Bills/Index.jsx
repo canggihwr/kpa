@@ -30,7 +30,7 @@ const Bills = () => {
               <tr className="font-bold text-left">
                 <th className="px-6 pt-5 pb-4">Nomor Kamar</th>
                 <th className="px-6 pt-5 pb-4">Nama Penyewa</th>
-                <th className="px-6 pt-5 pb-4">Nama Tagihan</th>
+                <th className="px-6 pt-5 pb-4">Id Tagihan</th>
                 <th className="px-6 pt-5 pb-4">Deskripsi</th>
                 <th className="px-6 pt-5 pb-4">Jumlah</th>
                 <th className="px-6 pt-5 pb-4">Per Bulan</th>
